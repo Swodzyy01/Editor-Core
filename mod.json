@@ -1,0 +1,14 @@
+{
+  "geode": "5.11.0",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "swodzyy01.editor-collab-core",
+  "name": "Editor Collab Core",
+  "version": "v0.1.0",
+  "developer": "Swodzyy01",
+  "description": "Editor collab ağ çekirdeği (LAN / sanal ağ)."
+}
